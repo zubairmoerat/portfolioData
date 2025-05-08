@@ -1,0 +1,66 @@
+{
+    "about": "I'm a freelance full-stack developer specializing in building responsive, scalable web and mobile applications using Node.js, TypeScript, Vue.js, and MySQL. I work closely with clients to understand their needs and deliver tailored solutions—whether that’s a custom e-commerce platform, a secure fintech backend, or a dynamic business dashboard. With experience delivering end-to-end projects in industries like fintech, logistics, and online retail, I bring both technical depth and a collaborative mindset. From clean UI design with Vue.js and Tailwind CSS to backend API development and database optimization, I provide complete development services with clear communication and reliable delivery. Certified in ethical hacking, AWS cloud foundations, and Python, I’m also mindful of security and scalability in every project I build. If you're a business, startup, or solo founder in need of a technical partner who can turn ideas into functional, polished software—I’m here to help. Let’s build something impactful together.",
+    "experience": [
+        {
+            "id": 1,
+            "place": "ZarMediaGroup",
+            "year": 2025,
+            "description": "Developed and deployed full-stack web and mobile apps for clients in various sectors. Led end-to-end development: requirement analysis, API architecture, testing and maintainence. Created scalable RESTful APIs using Node.js and Express for seamless data operations. Improved client satisfaction by delivering clean, efficient and on-time solutions."
+        },
+        {
+            "id": 2,
+            "place": "Loop",
+            "year": 2024,
+            "description": "Engineered backend logic using TypeScript and Prisma ORM to streamline digital wallet transactions. Refined database performance, reducing query latency by optimizing schema and indexing. Authored technical documantation to align team understanding and support onboarding. Contributed to mapping logic for NFC tap-to-pay terminals, improving transaction reliability."
+        },
+        {
+            "id": 3,
+            "place": "Life Choices Studio",
+            "year": 2023,
+            "description": "Contributed to client-facing software projects in a fast-paced agile environment. Applied full-stack skills in real-world settings, including version control and collaboative coding. Gained hands-on experience in cybersecurity through labs on HTTPS, encryption, and digital threats. Completed certifications to strengthen knowledge in various programming languages, cloud services and OS fundementals."
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "institute": "Life Choices Coding Academy",
+            "certification": "Full-Stack: Web Development Certificate",
+            "time-line": "2023 - 2024",
+            "description": "Completed an intensive, project-based bootcamp focused on industry-relevant full-stack technologies, including Node.js, Vue.js, MySQL, JavaScript, and RESTful API development. Developed strong proficiency in both frontend and backend development, version control, and deployment."
+        },
+        {
+            "id": 2,
+            "institute": "AESDP (Artisan & Skills Development Program)",
+            "certification": "NQF Level 4 - Mechanical Engineering",
+            "time-line": "2021 - 2022",
+            "description": "Acquired foundational mechanical engineering skills including engine assembly, diagnostics, and system maintenance. Strengthened technical problem-solving and attention to detail, which continue to influence my approach to structured development and debugging in software."
+        },
+        {
+            "id":3,
+            "institute": "Livingstone High School",
+            "certification": "National Senior Certificate (Bachelor's Pass)",
+            "time-line": "2016 - 2020",
+            "description": "Successfully completed secondary education with a Bachelor’s Pass, laying the groundwork for both my technical and analytical abilities. Demonstrated consistent academic performance and commitment to learning."
+        }
+    ],
+    "certificates": [
+        {
+            "id": 1,
+            "issuer": "Life Choices Academy",
+            "course": "Full-Stack Web Development (HTML, CSS, JavaScript, Node.js, Vue.js, MySQL, Bootstrap)",
+            "date": 2023
+        },
+        {
+            "id": 2,
+            "issuer": "Cisco Networking Academy",
+            "course": ["Ethical Hacking", "Operating Systems Basics", "Junior Cybersecurity Analyst", "Python Essentials 1"],
+            "date": 2024
+        },
+        {
+            "id": 3,
+            "issuer": "AWS Academy",
+            "course": ["Cloud Foundations","Certified Cloud Practioner (CLF-C02)"],
+            "date": 2025
+        }
+    ]
+}
