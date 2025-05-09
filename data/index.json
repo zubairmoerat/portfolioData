@@ -1,5 +1,10 @@
 {
-    ["about": "I'm a freelance full-stack developer specializing in building responsive, scalable web and mobile applications using Node.js, TypeScript, Vue.js, and MySQL. I work closely with clients to understand their needs and deliver tailored solutions—whether that’s a custom e-commerce platform, a secure fintech backend, or a dynamic business dashboard. With experience delivering end-to-end projects in industries like fintech, logistics, and online retail, I bring both technical depth and a collaborative mindset. From clean UI design with Vue.js and Tailwind CSS to backend API development and database optimization, I provide complete development services with clear communication and reliable delivery. Certified in ethical hacking, AWS cloud foundations, and Python, I’m also mindful of security and scalability in every project I build. If you're a business, startup, or solo founder in need of a technical partner who can turn ideas into functional, polished software—I’m here to help. Let’s build something impactful together."],
+    "about": [
+        {
+            "id": 1,
+            "description": "I'm a freelance full-stack developer specializing in building responsive, scalable web and mobile applications using Node.js, TypeScript, Vue.js, and MySQL. I work closely with clients to understand their needs and deliver tailored solutions—whether that’s a custom e-commerce platform, a secure fintech backend, or a dynamic business dashboard. With experience delivering end-to-end projects in industries like fintech, logistics, and online retail, I bring both technical depth and a collaborative mindset. From clean UI design with Vue.js and Tailwind CSS to backend API development and database optimization, I provide complete development services with clear communication and reliable delivery. Certified in ethical hacking, AWS cloud foundations, and Python, I’m also mindful of security and scalability in every project I build. If you're a business, startup, or solo founder in need of a technical partner who can turn ideas into functional, polished software—I’m here to help. Let’s build something impactful together."
+        }
+    ],
     "experience": [
         {
             "id": 1,
