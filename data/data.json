@@ -47,7 +47,7 @@
         {
             "id": 1,
             "issuer": "Life Choices Academy",
-            "course": "Full-Stack Web Development (HTML, CSS, JavaScript, Node.js, Vue.js, MySQL, Bootstrap)",
+            "course": ["Full-Stack Web Development", "(HTML, CSS, JavaScript, Node.js, Vue.js, MySQL, Bootstrap)"],
             "date": 2023
         },
         {
