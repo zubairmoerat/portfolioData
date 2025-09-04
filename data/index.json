@@ -36,7 +36,7 @@
         },
         {
             "id":3,
-            "skill": "VueJS"
+            "skill": "Vue.js"
         },
         {
             "id":4,
@@ -65,15 +65,122 @@
         {
             "id":10,
             "skill": "Git"
+        },
+        {
+            "id":11,
+            "skill": "PostgreSQL"
+        },
+        {
+            "id":12,
+            "skill": "MongoDB"
+        },
+        {
+            "id":13,
+            "skill": "React"
+        },
+        {
+            "id":14,
+            "skill": "NestJS"
+        },
+        {
+            "id":15,
+            "skill": "Prisma"
+        },
+        {
+            "id":16,
+            "skill": "Google Cloud"
         }
     ],
     "projects": [
         {
             "id": 1,
-            "title": "E-Commerce Platform",
-            "description": "A full-stack e-commerce platform built with VueJS, tailwindcss and Node.js, features include user authentication, product catalog, shopping cart and payment integration.",
-            "image": "",
-            "technologies": ["Vue", "Node.js", "MySQL", "AWS", "Stripe"]
+            "title": "Expense Tracker",
+            "description": "A web app to log income and expense to keep track of finances.",
+            "technologies": ["Vue.js", "CSS"],
+            "github": "https://github.com/zubairmoerat/Expense_Tracker/tree/main",
+            "link": "https://expense-tracker-rosy-ten.vercel.app/",
+            "image": "https://iili.io/KCq3uGS.th.jpg",
+            "featured": false
+        },
+        {
+            "id": 2,
+            "title": "Weather App",
+            "description": "A simple UI-design weather app to keep track of the weather. Data is pulled from a free hosted weather API.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "github": "https://github.com/zubairmoerat/Weather_App",
+            "link": "https://weather-app-blond-psi-76.vercel.app/",
+            "image": "https://iili.io/KCqn5WG.th.jpg",
+            "featured": false
+        },
+        {
+            "id": 3,
+            "title": "To-Do List",
+            "description": "A simple to-do list to track tasks.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "github": "https://github.com/zubairmoerat/todo",
+            "link": "https://todo-rho-seven-51.vercel.app/",
+            "image": "https://iili.io/KCq5RzN.th.jpg",
+            "featured": false
+        },
+        {
+            "id": 4,
+            "title": "Paw Care",
+            "description": "My first collaboration project. A full-stack eccomerce web app, I took charge of the backend code and database optimization.",
+            "technologies": ["Vue.js", "Bootstrap", "Node.js", "MySQL"],
+            "github": "https://github.com/zubairmoerat/Paw_Care",
+            "link": "https://pawcare-45bdc.web.app/",
+            "image": "https://iili.io/KCqMAaS.th.jpg",
+            "featured": false
+        },
+        {
+            "id": 5,
+            "title": "Portfolio",
+            "description": "My first portfolio. Simple single web page displaying my technical capabilities and achievements.",
+            "technologies": ["Vue.js", "Bootstrap"],
+            "github": "https://github.com/zubairmoerat/zubairmoeratport",
+            "link": "https://zubairmoeratport.vercel.app/",
+            "image": "https://iili.io/KCqOQ3b.th.jpg",
+            "featured": false
+        },
+        {
+            "id": 6,
+            "title": "WhatsApp Chatbot",
+            "description": "Secure payment system, add funds utilise the Loop eco-system to make seamless payments. More than 10k active users",
+            "technologies": ["Node.js", "TypeScript", "AWS", "Prisma", "Docker"],
+            "github": "https://github.com/looptransport",
+            "link": "https://wa.me/27620746728?text=Sign%20Up",
+            "image": "https://iili.io/KCBLdtn.th.png",
+            "featured": false
+        },
+        {
+            "id": 7,
+            "title": "Loop Taxi",
+            "description": "Web page built for customers to make bookings.",
+            "technologies": ["React", "Ruby", "AWS", "SCSS"],
+            "github": "https://github.com/looptransport",
+            "link": "https://bookings.loopmobility.co.za/",
+            "image": "https://iili.io/KCC74wv.th.jpg",
+            "featured": true
+        },
+        {
+            "id": 8,
+            "title": "Loop Tap",
+            "description": "Point of sale mobile application, currently has 1k users.",
+            "technologies": ["Node.js","TypeScript","AWS","Prisma","Google Cloud"],
+            "github": "https://github.com/looptransport",
+            "link": "https://play.google.com/store/apps/details?id=com.wizzitdigital.emv.sdk.loop&hl=en_ZA",
+            "image": "https://iili.io/KCChXgj.th.jpg",
+            "featured": false
+        },
+        {
+            "id": 9,
+            "title": "ZarMediaGroup",
+            "description": "Out Reach website for engaging with my freelance clients.",
+            "technologies": ["Elementor"],
+            "github": "https://github.com/zarmediagroup",
+            "link": "https://zarmediagroup.com/",
+            "image": "https://iili.io/KCndKEN.th.jpg",
+            "featured": true
         }
     ]
 }
