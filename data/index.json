@@ -182,5 +182,32 @@
             "image": "https://iili.io/KCndKEN.th.jpg",
             "featured": true
         }
+    ],
+    "badges": [
+        {
+            "id":1,
+            "cert": "Python Essentials",
+            "image": "https://iili.io/KCgYhhP.th.png"
+        },
+        {
+            "id":2,
+            "cert": "Operating Systems Basics",
+            "image": "https://iili.io/KCgYhhP.th.png"
+        },
+        {
+            "id":3,
+            "cert": "Cybersecurity Essentials",
+            "image": "https://iili.io/KCgYhhP.th.png"
+        },
+        {
+            "id":4,
+            "cert": "SCRUM Agile Methodologies",
+            "image": "https://iili.io/KCgYhhP.th.png"
+        },
+        {
+            "id":5,
+            "cert": "Ethical Hacker",
+            "image": "https://iili.io/KCgYhhP.th.png"
+        }
     ]
 }
