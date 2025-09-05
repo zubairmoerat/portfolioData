@@ -6,7 +6,8 @@
             "year": "12/2024 - Present",
             "description": "Developed and deployed full-stack web and mobile apps for clients in various sectors. Led end-to-end development: requirement analysis, API architecture, testing and maintainence. Created scalable RESTful APIs using Node.js and Express for seamless data operations. Improved client satisfaction by delivering clean, efficient and on-time solutions.",
             "title":"Software Engineer",
-            "companyURL":"https://zarmediagroup.com/"
+            "companyURL":"https://zarmediagroup.com/",
+            "tech": ["Flutter", "Node.js","TypeScript","Figma","WordPress"]
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "year": "07/2024 - 12/2024",
             "description": "Engineered backend logic using TypeScript and Prisma ORM to streamline digital wallet transactions. Refined database performance, reducing query latency by optimizing schema and indexing. Authored technical documantation to align team understanding and support onboarding. Contributed to mapping logic for NFC tap-to-pay terminals, improving transaction reliability.",
             "title":"Software Developer",
-            "companyURL":"https://www.looptaxi.co.za/"
+            "companyURL":"https://www.looptaxi.co.za/",
+            "tech": ["AWS", "Node.js","TypeScript","Prisma","React","MySQL"]
         },
         {
             "id": 3,
@@ -22,7 +24,8 @@
             "year": "09/2023 - 07/2024",
             "description": "Contributed to client-facing software projects in a fast-paced agile environment. Applied full-stack skills in real-world settings, including version control and collaboative coding. Gained hands-on experience in cybersecurity through labs on HTTPS, encryption, and digital threats. Completed certifications to strengthen knowledge in various programming languages, cloud services and OS fundementals.",
             "title":"Tech Intern",
-            "companyURL":"https://lifechoices.co.za/"
+            "companyURL":"https://lifechoices.co.za/",
+            "tech": ["Vue.js", "Node.js","JavaScript","Figma","HTML","CSS","MySQL"]
         }
     ],
     "skills": [
@@ -150,7 +153,7 @@
             "github": "https://github.com/looptransport",
             "link": "https://wa.me/27620746728?text=Sign%20Up",
             "image": "https://iili.io/KCBLdtn.th.png",
-            "featured": false
+            "featured": true
         },
         {
             "id": 7,
@@ -160,7 +163,7 @@
             "github": "https://github.com/looptransport",
             "link": "https://bookings.loopmobility.co.za/",
             "image": "https://iili.io/KCC74wv.th.jpg",
-            "featured": true
+            "featured": false
         },
         {
             "id": 8,
@@ -170,7 +173,7 @@
             "github": "https://github.com/looptransport",
             "link": "https://play.google.com/store/apps/details?id=com.wizzitdigital.emv.sdk.loop&hl=en_ZA",
             "image": "https://iili.io/KCChXgj.th.jpg",
-            "featured": false
+            "featured": true
         },
         {
             "id": 9,
@@ -180,7 +183,7 @@
             "github": "https://github.com/zarmediagroup",
             "link": "https://zarmediagroup.com/",
             "image": "https://iili.io/KCndKEN.th.jpg",
-            "featured": true
+            "featured": false
         }
     ],
     "badges": [
@@ -192,22 +195,22 @@
         {
             "id":2,
             "cert": "Operating Systems Basics",
-            "image": "https://iili.io/KCgYhhP.th.png"
+            "image": "https://iili.io/JihY6Sn.png"
         },
         {
             "id":3,
             "cert": "Cybersecurity Essentials",
-            "image": "https://iili.io/KCgYhhP.th.png"
+            "image": "https://iili.io/JihcD37.png"
         },
         {
             "id":4,
             "cert": "SCRUM Agile Methodologies",
-            "image": "https://iili.io/KCgYhhP.th.png"
+            "image": "https://iili.io/JiWHxiF.png"
         },
         {
             "id":5,
             "cert": "Ethical Hacker",
-            "image": "https://iili.io/KCgYhhP.th.png"
+            "image": "https://iili.io/d9T38bf.png"
         }
     ]
 }
