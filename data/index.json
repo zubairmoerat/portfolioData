@@ -26,6 +26,15 @@
             "title":"Tech Intern",
             "companyURL":"https://lifechoices.co.za/",
             "tech": ["Vue.js", "Node.js","JavaScript","Figma","HTML","CSS","MySQL"]
+        },
+        {
+            "id": 4,
+            "place": "Solo's Cloud Distributions",
+            "year": "03/2023 - 03/2023",
+            "description": "Data analytics to track figures of various departments, such as finance, operations and sales.",
+            "title": "Data Analyst",
+            "companyURL":"https://www.instagram.com/soloscloud/",
+            "tech": ["Micosoft Office Suite", "AppScript"]
         }
     ],
     "skills": [
@@ -148,7 +157,7 @@
         {
             "id": 6,
             "title": "WhatsApp Chatbot",
-            "description": "Secure payment system, add funds utilise the Loop eco-system to make seamless payments. More than 10k active users",
+            "description": "Secure payment system through WhatsApp. More than 10k active users",
             "technologies": ["Node.js", "TypeScript", "AWS", "Prisma", "Docker"],
             "github": "https://github.com/looptransport",
             "link": "https://wa.me/27620746728?text=Sign%20Up",
